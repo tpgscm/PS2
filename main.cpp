@@ -6,8 +6,10 @@ int foo( int *ioValue )               // issue%1 2014/07/08 13:31
 }
 int main( void )
 {
+  logout( "apl start" );              // issue#8 2014/07/08 15:46
   int no = 0;                         // issue%1 2014/07/08 13:31
 
   foo( &no );                         // issue%1 2014/07/08 13:31
+  logout( "apl end" );                // issue#8 2014/07/08 15:46
   return 0;
 }
