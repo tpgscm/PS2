@@ -1,4 +1,8 @@
 // master add function 2014/07/08 13:12
+int strcpyn( void )
+{
+	// ...
+}
 int foo( int *ioValue )               // issue%1 2014/07/08 13:31
 {
   printf( "Hello\n" );        			// be_master add 2014/07/08 13:17
