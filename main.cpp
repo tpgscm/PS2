@@ -1,7 +1,8 @@
 // master add function 2014/07/08 13:12
 int strcpyn( void )
 {
-	// ...
+	// ƒRƒƒ“ƒg‚Ì’Ç‰Á
+	// ‚ ‚ ‚ ‚ ‚ 
 }
 int foo( int *ioValue )               // issue%1 2014/07/08 13:31
 {
