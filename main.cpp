@@ -11,3 +11,6 @@ int main( void )
   foo();
   return 0;
 }
+int memcpyn( void )
+{
+}
